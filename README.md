@@ -10,7 +10,7 @@
 			    <li style="font-family:sans-serif; color: cornflowerblue">Indy grab off the kicker.</li>
 		    </ul>
 		  <ol>
-			  <li>Click <a href="page2.html">here</a> to view my <strong>Second</strong> page.</li>
+			  <li>Click <a href="https://github.com/glasscitytrev419/First-Html-Project2/blob/master/README.md">here</a> to view my <strong>Second</strong> page.</li>
 			  <li>Click <a href="https://www.facebook.com/trevordg419">here</a> to view my <strong>Facebook</strong> page.</li>
 			  <li>Click <a href="https://www.youtube.com/user/trevordg419">here</a> to view my <strong>YouTube</strong> page.</li>
 		  </ol>
